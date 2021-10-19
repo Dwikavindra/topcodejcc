@@ -1,16 +1,11 @@
 # topcoder
 
-A new Flutter project.
+Top Coder Development Challenge Build a Language Translation App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How to deploy and run app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Download Flutter and its requirements from https://flutter.dev/docs/get-started/install
+2. Open topcoder folder using android studio or vscode
+3. Run the code on ios or android
